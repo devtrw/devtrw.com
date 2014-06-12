@@ -1,0 +1,13 @@
+{
+    "name": "devtrw/devtrw.com",
+    "description": "Source for base devtrw.com domain.",
+    "authors": [
+        {
+            "name": "Steven Nance",
+            "email": "steven@devtrw.com"
+        }
+    ],
+    "require": {
+
+    }
+}
