@@ -1,2 +1,3 @@
 <?php
-http_redirect("http://www.devtrw.com", [], true, HTTP_REDIRECT_PERM);
+header('Location: http://www.devtrw.com', true, 301);
+exit();
